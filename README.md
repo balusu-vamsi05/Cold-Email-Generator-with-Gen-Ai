@@ -176,7 +176,3 @@ Created by **Vamsi** — open an issue or reach out via your GitHub profile for 
 * Multi-language support for localized outreach.
 * A/B testing harness to track open & reply rates.
 * Integration with Gmail API / SMTP for controlled sending (careful with rate limits & anti-spam rules).
-
----
-
-> *If you'd like, I can also generate a `CONTRIBUTING.md`, `.env.example`, and a sample `CI` workflow (GitHub Actions).*
